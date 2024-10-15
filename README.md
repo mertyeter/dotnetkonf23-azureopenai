@@ -38,3 +38,7 @@ To build the project, use the following command:
 ```sh
 dotnet build
 dotnet run
+```
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
